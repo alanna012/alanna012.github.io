@@ -7,4 +7,4 @@
  	<li> <a href="/"> College Education</a></li>
 </ul>
 </nav>
-<h1>Alanna Salce</h1>
+	<h1>Alanna Salce</h1>
