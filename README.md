@@ -1,4 +1,4 @@
-<nav role="navigation" aria-label="main menu">
+<nav role="navigation">
 <ul class="navabar">
 	<li> <a href="/">Home</a></li>
 	<li> <a href="/"> About Me</a></li>
@@ -7,3 +7,4 @@
  	<li> <a href="/"> College Education</a></li>
 </ul>
 </nav>
+<h1>Alanna Salce</h1>
