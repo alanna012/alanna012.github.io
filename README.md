@@ -1,4 +1,4 @@
-<nav role="navigation">
+<nav role="navigation" aria-label="main menu">
 <ul class="navabar">
 	<li> <a href="/">Home</a></li>
 	<li> <a href="/"> About Me</a></li>
