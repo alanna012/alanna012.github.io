@@ -6,4 +6,4 @@
 	<li> <a href="/"> Skills and Experiences</a></li>
  	<li> <a href="/"> College Education</a></li>
 </ul>
-</nav>nav>
+</nav>
