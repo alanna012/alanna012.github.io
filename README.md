@@ -1,1 +1,43 @@
-file:///Users/alannasalce/Documents/GitHub/alanna012.github.io/PracticeSite2/Home%202.html
+<head>
+	<link rel="stylesheet" href="style.css">
+</header>
+<nav role="navigation">
+<ul class="navabar">
+	<li><a href="file:///Users/alannasalce/Documents/GitHub/alanna012.github.io/PracticeSite2/Home%202.html">Home</a></li>
+	<li><a href="file:///Users/alannasalce/Documents/GitHub/alanna012.github.io/PracticeSite2/Personal%20Narrative%202.html"> Personal Narrative</a></li>
+	<li><a href="file:///Users/alannasalce/Documents/GitHub/alanna012.github.io/PracticeSite2/College%20Education%202.html"> College Education</a></li>
+	<li><a href="file:///Users/alannasalce/Documents/GitHub/alanna012.github.io/PracticeSite2/Skills%20and%20Experiences.html"> Skills and Experiences</a></li>
+</ul>
+</nav>
+<h1><b>Alanna Salce</b></h1> 
+<h2><i>About Me</i></h2>
+<p> Hi! My name is Alanna Salce. I am from Virginia, but I was born in Manhattan, New York.
+I am a junior at George Mason University studying Forensic Science with a concentration 
+in Intelligence Studies and a minor in Digital Media and Web Design. 
+I am very passionate about the criminal justice system and I am looking to gain a future 
+career as a Criminal Investigator with the FBI. I also enjoy marketing because of some 
+classes I took in High School and decided it would be a good minor to have especially 
+with the usage of computers now a days. </p> 
+<p> When it comes to discussing things I enjoy, take a seat because there is a long list 
+of things I enjoy. Starting off with reading. I absolutely love to read. It is one of my
+favorite things ever. Sitting down and getting lost in a fictional novel is the way I like
+to spend my rainy days. Next is going to the gym. The gym is a very nice stress reliever 
+for me and I also feel that it is helping me prepare for future training for the FBI. I 
+also love listening to music, anything but country, although country music is growing on 
+me, so basically I will listen to anything. I have a shopping addiction. Whether it is 
+buying clothes or things for my room, I am a shopaholic. I like hanging out with my family
+and friends, playing with my dogs, taking walks, and a whole bunch of other stuff I can't
+name right now because if I do we will be here forever. </p>
+<p id="myParagraph">This is just a glimpse into who I am. To learn more about me and my energetic,
+organized, loud, creative, and overall bubbly personality just click through to read more 
+about me, my experiences and skills, as well as my college education so far. Welcome to 
+Alanna's world! <p/>
+<figure>
+	<img src="20241027_151346_ED8DE2.jpeg" alt="Profile Photo of Alanna Salce" width="300" height="200">
+	<figcaption> This is <strong>ME</strong>! I am <strong>her</strong>! Hello everyone :) </figcaption>
+</figure>
+<footer> 
+	<p>
+	<small>&copy;2004 Alanna's World </small>
+	</p>
+</footer>
