@@ -31,3 +31,8 @@ text-align: center;
 #certifications{
 color:#3b7544;
 }
+.article-with-border{
+border: 3px solid black;
+border-radius: 5px;
+padding: 10px;
+}
