@@ -1,1 +1,1 @@
-https://github.com/alanna012/alanna012.github.io/tree/main/PracticeSite2
+file:///Users/alannasalce/Documents/GitHub/alanna012.github.io/PracticeSite2/Home%202.html
